@@ -11,7 +11,7 @@ h1 {
   height: 300px;
   width: auto;
   max-width: 100%;
-  border: 5px solid rgb(160, 10, 125);
+  border: 5px solid rgb(0, 0, 0);
   display: block;
   margin: auto;
 }
